@@ -35,3 +35,6 @@ THEN I am again presented with current and future conditions for that city
 
 
 <img width="1792" alt="Screen Shot 2022-01-15 at 7 27 01 PM" src="https://user-images.githubusercontent.com/87445858/149642508-7d7f7b7c-50fe-40a4-bf2d-975d57186985.png">
+
+
+**DEPLOYED APP -->** https://miguelgarciacastro.github.io/weatherDashboard/
