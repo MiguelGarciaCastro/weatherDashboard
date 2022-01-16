@@ -1,5 +1,9 @@
 # weatherDashboard
 
+**Description**
+
+The weather dashboard displays a searched location's weather and its five-day forecast. It uses the OpenWeather API to pull a location's temperature, UV index, humidity, windspeed, and associated weather icon. A color badge will display depending on which category the UV index falls into: low, medium, or high.
+
 **Acceptance Criteria**
 
 GIVEN a weather dashboard with form inputs
